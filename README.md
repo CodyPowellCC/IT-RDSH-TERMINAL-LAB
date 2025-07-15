@@ -29,3 +29,8 @@ Deployed Windows Server 2022 within VirtualBox as the RDSH server
     - Tested connection from client-1 PC on the network with LabUser1 credentials for successful login.
 
 ![UserConnected](UserConnected.png)
+
+
+    - LabUser2 without RDP permissions gets denied access
+
+![User-Denied](User-Denied.png)

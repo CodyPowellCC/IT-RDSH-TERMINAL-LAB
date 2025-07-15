@@ -1,3 +1,4 @@
+# Windows Server 2022 RDSH/Terminal Server Lab
 A virtualized lab showcasing the deployment of Windows Server 2022 as a Remote Desktop Session Host (RDSH) server, including Active Directory user management, Group Policy configuration, and firewall setup to enable centralized user access via Remote Desktop Protocol (RDP) for an enterprise-like environment.Components:Windows Server 2022 (RDSH Server, Active Directory, Group Policy)
 
 - Windows Client (RDP Clients)
